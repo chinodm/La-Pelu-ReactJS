@@ -10,7 +10,7 @@ function NavBar() {
         <nav className="navbar" id="app">
             <img src={image} className="logo" alt="logo"/>
             <a href="#app">Inicio</a>
-            <a href="#app">About</a>
+            <a href="#app">Sobre MI</a>
             <a href="#app">Productos</a>
             <a href="#app">Contacto</a>
             <ItemListContainer />
