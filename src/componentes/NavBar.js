@@ -1,10 +1,8 @@
-import image from "../img/logo192.png";
 import '../style/css/style.css';
 import ItemListContainer from './ItemListContainer';
 
 function NavBar() {
     return (
-    <div className="NavBar">
         <header>
         
         <nav className="navbar" id="app">
@@ -17,7 +15,6 @@ function NavBar() {
         </nav>
 
         </header>
-    </div>
     );
 }
 
