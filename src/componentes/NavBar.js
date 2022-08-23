@@ -1,4 +1,4 @@
-import '../style/css/style.css';
+import '../style/style.css';
 import ItemListContainer from './ItemListContainer';
 
 function NavBar() {
