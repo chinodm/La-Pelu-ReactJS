@@ -5,7 +5,7 @@ function ItemListContainer() {
     <>
     <div className="item-list-container">
     <CartWidget/>
-    <p>5</p>
+    <p>2</p>
     </div>
     
     </>  
