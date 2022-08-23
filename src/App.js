@@ -1,5 +1,4 @@
-import NavBar from './components/NavBar.js';
-import Curso from './components/Curso';
+import NavBar from './componentes/NavBar.js';
 import './style/css/style.css';
 
 const App = () => {
